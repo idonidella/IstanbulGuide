@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "554948136180",
+    "project_id": "istanbulguide-ee9e5",
+    "storage_bucket": "istanbulguide-ee9e5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554948136180:android:7b1ca1291a0cf1796962a1",
+        "android_client_info": {
+          "package_name": "com.istanbulguide"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHGV67bIrmOswer4hAtxyA5LVTdlXt2_g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
